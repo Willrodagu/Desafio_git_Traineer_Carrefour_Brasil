@@ -1,1 +1,4 @@
 Desafio entregue conforme especificado!
+
+Criei um repositório no GitHub, clonei para minha maquina Windows, crei e editei este
+documento .txt, commitei ele e sincronizei o GitHub para atualizar o repositório.
